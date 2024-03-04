@@ -1,0 +1,50 @@
+    /* FOR THE ENTIRE BACKGROUND */
+    html{
+        background: rgba(131, 85, 131, 0.301);
+    }
+    
+        /* ALL THAT IS IN A BODY TAG*/
+    body{
+        margin-top: -30px;
+        color: #000;
+        text-align: center;
+    }
+    
+        /* FOR THE HEADER PART ONLY*/
+    h1{
+        color: #000;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        font-size: 57px;
+        text-shadow: 3px 3px 2px #fff;
+    }
+    
+        /* FOR ALL THAT HAVE (A) LINK*/
+    a{
+        text-decoration: 2px solid underline;
+        color: rgb(35, 35, 187);
+        font-style: italic;
+    }
+    
+        /* FOR THE PARAGRAPHY TAG ONLY*/
+    p{
+        margin-top: -20px;
+        font-size: 22px;
+        font-weight: 15px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+        /* FOR THE IMAGE PART*/
+    img{
+        width: 1000px;
+        height: 490px;
+        border-radius: 30px;
+        box-shadow: 8px -7px 5px #000;
+    }
+    
+        /* FOR THE I - TAG ONLY*/
+    i{
+        color: #000;
+        font-size: 20px;
+    }
+    

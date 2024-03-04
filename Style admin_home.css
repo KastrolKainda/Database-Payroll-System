@@ -1,0 +1,86 @@
+html{
+    background: rgba(83, 197, 117, 0.486);
+}
+h2{
+    text-align: center;
+    font-size: 43px;
+    color: blue;
+    text-shadow: 2px 2px 1px #fff;
+}
+
+  /* ALL THAT FALL UNDER LIST PART*/
+  ul li{
+    margin: 0px;
+    padding: 0px;
+    color: #fff;
+    list-style-type: none;
+    text-align: left;
+    text-decoration: none;
+
+}
+ul li a{
+    color: #fff;
+    list-style-type: none;
+    text-align: left;
+    text-decoration: none;
+    font-size: 20px;
+}
+ul li a:hover{
+    text-decoration: 1px solid underline;
+    animation: unset;
+    font-size: 21px;
+}
+
+    /* BACKGROUND OF THE ENTIRE FORM */
+.all{
+    background: linear-gradient(rgb(190, 46, 190), gray);
+    border-radius: 10px;
+    height: 550px;
+    width: 1250px;
+    margin: 60px 250px 50px 170px;
+    box-shadow: 5px -4px 3px #000;
+}
+    
+        /*FIRST FORM */
+#ip{  
+    margin-left: 180px;
+ } 
+        
+      /*SECOND FORM */
+#zp{
+    margin-left: 540px;   
+    margin-top: -193px;
+}
+           
+    /*THIRD FORM */
+#jk{
+    margin-left: 940px;   
+        margin-top: -200px;
+} 
+
+
+    /*FOR THE P-TAG ONLY*/
+p{
+    text-align: center;
+    color: #fff;
+    font-size: 21px;
+    font-style: normal;
+}
+p:hover{
+    text-decoration: 1px solid underline;
+}
+
+#go {
+    margin-right: -1180px;
+    margin-top: -65px;
+    text-decoration: none;
+    font-size: 17px;
+}
+#go a{
+    text-decoration: none;
+    color: blue;
+}
+#go a:hover{
+    text-decoration: 1px solid #000 underline;
+ 
+}

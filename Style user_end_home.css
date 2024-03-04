@@ -1,0 +1,72 @@
+
+    /*FOR THE HTML BACKGROUND ONLY */
+    html{
+        background: rgba(83, 197, 117, 0.486);
+    }
+    
+    h2{
+        text-align: center;
+        font-size: 43px;
+        color: blue;
+        text-shadow: 2px 2px 1px #fff;
+    }
+    
+        /* BACKGROUND OF THE ENTIRE FORM */
+    .all{
+        margin-top: 500px;
+        background: linear-gradient(rgb(190, 46, 190), gray);
+        border-radius: 10px;
+        height: 550px;
+        width: 1200px;
+        margin: 10px 250px 50px 200px;
+        box-shadow: 5px -4px 3px #fff;
+    }
+    
+        /*FIRST FORM -FOR MY SCHEDULE*/
+    #ma{
+        margin-left: 220px;   
+        margin-top: 50px;
+    }
+    
+          /*SECOND FORM -FOR MORE INFORMATION*/
+    #za{
+        margin-left: 750px;   
+        margin-top: -200px;
+    }
+        
+        /* ALL THAT FALL UNDER LIST PART*/
+    ul li{
+        margin: 0px;
+        padding: 0px;
+        color: #fff;
+        list-style-type: none;
+        text-align: left;
+        text-decoration: none;
+    
+    }
+    ul li a{
+        color: #fff;
+        list-style-type: none;
+        text-align: left;
+        text-decoration: none;
+        font-size: 20px;
+    }
+    ul li a:hover{
+        text-decoration: 1px solid underline;
+        animation: unset;
+        font-size: 21px;
+    }
+    
+        /*FOR THE P-TAG ONLY*/
+    p{
+        text-align: center;
+        color: #fff;
+        font-size: 21px;
+        font-style: normal;
+    }
+    p:hover{
+        text-decoration: 1px solid underline;
+    }
+    
+    
+    

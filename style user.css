@@ -1,0 +1,64 @@
+    /*FOR THE ENTIRE BACKGROUND*/
+html{
+   /* background-color:  rgb(134, 22, 134); */
+  /* background: linear-gradient(rgb(81, 81, 199), rgb(145, 33, 145));*/
+   background: rgba(83, 197, 117, 0.486);
+}
+
+h2{
+    text-align: center;
+}
+    /*FOR THE FORM ONLY */
+form{
+    padding-left: 45px;
+    margin: auto;
+    height: 800px;
+    width: 620px;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 8px -8px 5px #000;
+}
+label{
+    font-size: 30px;
+    font-weight: normal;
+}
+input{
+    width: 300px;
+    height: 27px;
+}
+    /* FOR THE INPUT PART*/
+input[type=text], input[type=number],input[type=email] 
+{
+    font-size: 27px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid;
+    outline: none;
+    width: 350px;
+    height: 40px;
+    color: #000;
+}
+
+    /* FOR THE PASSWORD ONLY*/
+input[type=password]{
+    font-size: 27px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid;
+    outline: none;
+    width: 350px;
+    height: 40px;
+    color: #000;
+} 
+button{
+    color: #fff;
+    width: 530px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: normal;
+    background-color:  rgb(19, 101, 224);
+}
+button:hover{
+    background-color: greenyellow;
+}
